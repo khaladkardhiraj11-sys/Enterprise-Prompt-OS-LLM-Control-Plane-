@@ -1,5 +1,4 @@
 # Prompt Engineering Playbook (Vanderbilt University)
-
 ## 🎓 Certification
 Prompt Engineering for ChatGPT  
 Vanderbilt University
